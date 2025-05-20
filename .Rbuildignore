@@ -30,3 +30,7 @@ Dockerfile
 code_of_conduct.md
 ^data-raw$
 ^Makefile$
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
